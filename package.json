@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-dudarieva/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olga-dudarieva/nodejs/issues"
+  },
+  "homepage": "https://github.com/olga-dudarieva/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
