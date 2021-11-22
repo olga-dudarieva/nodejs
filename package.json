@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index js",
+    "serve": "nodemon"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olga-dudarieva/nodejs.git"
@@ -15,6 +18,9 @@
   },
   "homepage": "https://github.com/olga-dudarieva/nodejs#readme",
   "devDependencies": {
-    "nodemon": "^2.0.14"
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "nodemon": "^2.0.15"
   }
 }
